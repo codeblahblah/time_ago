@@ -1,5 +1,5 @@
 require "time_ago/version"
 
 module TimeAgo
-  # Your code goes here...
+  class Engine < ::Rails::Engine
 end
